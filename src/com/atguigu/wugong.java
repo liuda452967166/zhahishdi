@@ -8,5 +8,6 @@ public static void main(String[] args) {
 	System.out.println("你是个号孩子");
 	System.out.println("snoajidao");
 	System.out.println("niahao ashisdfh");
+	System.out.println("最好的组合");
 }
 }
